@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # swe-se-2020
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -15,5 +16,11 @@ Another test
 Lorem ipsum dolor sit amet
 Hallo test test
 Another test
+=======
+
+
+
+Hallo Timo
+>>>>>>> 545d67d156879d4f27610171f603456e40703297
 
 >>>>>>> 30b73554f659ae15cc4aeb9ebc608e5c47f67e23
