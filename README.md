@@ -1,7 +1,5 @@
 # swe-se-2020
-<<<<<<< HEAD
 Danke fürs lesen !!!
-=======
 
 Lorem ipsum dolor sit amet
 
@@ -19,4 +17,3 @@ Another test
 Hallo Timo
 dere
 
->>>>>>> 362ffd9b4084bf94ab4f13ffc9eae06f6c641f9e
